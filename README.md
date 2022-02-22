@@ -1,2 +1,2 @@
 # git-github
-My new Repository
+My new Repository for tutorial purpose
